@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "901410295869",
+    "firebase_url": "https://handsahke2.firebaseio.com",
+    "project_id": "handsahke2",
+    "storage_bucket": "handsahke2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901410295869:android:f88d83e307eb8efb",
+        "android_client_info": {
+          "package_name": "com.example.user.handsahke_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901410295869-keloe1842gpfgklne9qs8644sj1m9pit.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.handsahke_2",
+            "certificate_hash": "6b595b0daf2244af83da835e84198304ad624d99"
+          }
+        },
+        {
+          "client_id": "901410295869-1t6tp58vf1rh7b61nilbe83gm6cihmvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADe71hBljZRk5_IK-ZXXwV5VXJEuoHi8g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901410295869-1t6tp58vf1rh7b61nilbe83gm6cihmvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

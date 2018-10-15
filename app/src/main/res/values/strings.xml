@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HandSahke_2</string>
+    <string name="rc_color">splash_background</string>
+    <string name="default_notification_channel_id">default_id</string>
+</resources>

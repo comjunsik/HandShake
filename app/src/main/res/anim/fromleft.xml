@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <translate
+        android:fromXDelta="-100%"
+        android:toXDelta="0%"
+        android:interpolator="@android:anim/accelerate_decelerate_interpolator"
+        android:duration="300"/>   <!--0.3초 -->     <!--애니메이션이 점점 빠르게 동작하다 점점 천천히 동작 -->
+
+</set>                                       
